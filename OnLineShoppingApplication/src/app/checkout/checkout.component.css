@@ -151,6 +151,7 @@ h2 {
   
   .total-price {
     font-size: 20px;
+     margin-top: 10px;
     font-weight: bold;
     color: #ff6347;
   }
